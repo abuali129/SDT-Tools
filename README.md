@@ -2,6 +2,7 @@
 
 This toolset allows you to **extract subtitles from `.SDT` files** and **import edited subtitles back into `.SDT` files**, supporting both **Metal Gear Solid 2 & 3** (PC and PS3 versions).
 
+<span style="color:red">❌ Note: This is not for Codec, for Codec use Giza GCX Tool</span>
 ---
 
 ## ✅ Requirements
